@@ -1,0 +1,8 @@
+#*Rules:
+#* Underpopulation; 1. Any live cell with less than 2 neighbours dies
+#* Overpopulation; 2. Any live cell with more than 3 neighbours dies
+#* Next generation; 3. Any live cell with 2 or 3 neighbours remains unchanged
+#* Birth; 4. Any dead cell with 3 neighbours becomes alive
+#! dead or alive - > alive if MooresNeighbours == 3
+#! alive -> alive elif MooresNeighbours == 2
+#! dead or alive -> dead else 
