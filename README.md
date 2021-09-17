@@ -4,4 +4,6 @@ My version of a cellular automaton that is intelligently colored with respect to
 
 ## USE THIS LINK TO MAKE A COMPLETE README.MD: 
 [StackEditMakeAReadMe](https://stackedit.io/app#)
+https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html (MUSIC,MATH,TURING COMPLETE,DNA...)
+
 
